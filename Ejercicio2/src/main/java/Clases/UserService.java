@@ -1,7 +1,5 @@
 package Clases;
 
-import lombok.Getter;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 @Component
